@@ -39,3 +39,7 @@ URL: https://github.com/Risaro/ipsec_vpn_gt/releases/download/win/auto_config_wi
 Распаковываем и запускаем
 ``ikev2_config_import.cmd``
 Следуем инструкции
+
+
+``Так же вы можете скачать TightVnc Server для пользователей вашего VPN для удаленного управления``
+https://www.tightvnc.com/download/2.8.75/tightvnc-2.8.75-gpl-setup-64bit.msi
